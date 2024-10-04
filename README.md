@@ -6,6 +6,7 @@ Planned Design: https://whimsical.com/NrUqxV2hVYzP5vkRQZ6RZ2
 Functionalities added: 
 - Authentication
   
+***Branches are yet to be merged into main, please check individually***
 Functionalities to be added: 
 - Search bar
 - Create Community page
